@@ -15,6 +15,10 @@ To play the carts:
 5. Within PICO-8, load a cart like this: `load platformer.p8`.
 6. Within PICO-8, run the cart using: `run`
 
+## Keyboard Controls
+
+My carts generally use the arrow keys for movement and the 'x' key for action.
+
 ## For More Info
 
 See the [PICO-8 User Manual](https://www.lexaloffle.com/dl/docs/pico-8_manual.html).
